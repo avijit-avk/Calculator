@@ -13,7 +13,7 @@ function clearDisplay() {
     display.value = '';
     resetDisplay = false; 
 }
-
+//git check
 function calculateResult() {
     try {
         display.value = eval(display.value);
